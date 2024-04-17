@@ -6,5 +6,5 @@
  */
 module distribuida {
 	requires java.rmi;
-	exports distribuida to java.rmi;
+	exports common to java.rmi;
 }
